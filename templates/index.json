@@ -33,21 +33,6 @@
         "adapt_height_first_image": false
       }
     },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured Wines",
-        "collection": "wine",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": true,
-        "show_image_outline": true,
-        "show_vendor": true
-      }
-    },
     "image_text": {
       "type": "image-with-text",
       "blocks": {
@@ -77,15 +62,31 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/1806-AAA_5164.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Wines",
+        "collection": "wine",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": true,
+        "show_image_outline": true,
+        "show_vendor": true
       }
     }
   },
   "order": [
     "image_banner",
-    "featured_products",
-    "image_text"
+    "image_text",
+    "featured_products"
   ]
 }
