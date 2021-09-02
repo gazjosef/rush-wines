@@ -1,5 +1,7 @@
 {
   "current": {
+    "type_header_font": "poppins_n7",
+    "type_body_font": "poppins_n4",
     "page_width": "1200",
     "social_twitter_link": "https:\/\/twitter.com\/shopify",
     "social_facebook_link": "https:\/\/facebook.com\/shopify",
@@ -26,7 +28,8 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo_width": 100,
+          "logo": "shopify:\/\/shop_images\/Rush_Wine_Label_Main_V2.png",
+          "logo_width": 60,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": true,
@@ -39,7 +42,7 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "Rush Wines",
               "menu": "footer"
             }
           }

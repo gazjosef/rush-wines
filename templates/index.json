@@ -3,16 +3,22 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
+        "c0ac5c24-4421-4265-837e-548da4614d3d": {
+          "type": "text",
+          "settings": {
+            "text": "AWARD WINNING WINE MAKER"
+          }
+        },
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand"
+            "heading": "Delivering quality wine to your door"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Shop",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -22,13 +28,14 @@
         }
       },
       "block_order": [
+        "c0ac5c24-4421-4265-837e-548da4614d3d",
         "heading",
         "button"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/sven-wilhelm-2cRXSWyMHA8-unsplash.jpg",
-        "desktop_text_box_position": "flex-end",
-        "color_scheme": "background-1",
+        "desktop_text_box_position": "center",
+        "color_scheme": "accent-1",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
       }
@@ -51,8 +58,8 @@
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/pages\/story"
           }
         }
       },
