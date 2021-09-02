@@ -1,12 +1,29 @@
 {
   "sections": {
+    "16305537548166a70a": {
+      "type": "image-banner",
+      "settings": {
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
       }
+    },
+    "16305537503bc13b34": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form"
+      }
     }
   },
   "order": [
-    "main"
+    "16305537548166a70a",
+    "main",
+    "16305537503bc13b34"
   ]
 }
