@@ -43,31 +43,9 @@
         "adapt_height_first_image": false
       }
     },
-    "16304919104bc084df": {
-      "type": "image-with-text",
-      "blocks": {
-        "16304919104bc084df-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
-        "16304919104bc084df-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Accumsan parturient cum cursus at vestibulum consectetur egestas <br\/>ultrices senectus cras commodo lobortis ad sagittis condimentum mi <br\/>natoque a a dis torquent tincidunt morbi ut. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16304919104bc084df-0",
-        "16304919104bc084df-1"
-      ],
+    "main": {
+      "type": "main-page",
       "settings": {
-        "image": "shopify:\/\/shop_images\/1806-AAA_5164.jpg",
-        "height": "small",
-        "color_scheme": "background-1",
-        "layout": "image_first"
       }
     },
     "163054114608be771e": {
@@ -87,17 +65,11 @@
         "color_scheme": "background-1",
         "full_width": true
       }
-    },
-    "main": {
-      "type": "main-page",
-      "settings": {
-      }
     }
   },
   "order": [
     "163049188337701089",
-    "16304919104bc084df",
-    "163054114608be771e",
-    "main"
+    "main",
+    "163054114608be771e"
   ]
 }

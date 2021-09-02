@@ -29,7 +29,7 @@
         "type": "header",
         "settings": {
           "logo": "shopify:\/\/shop_images\/Rush_Wine_Label_Main_V2.png",
-          "logo_width": 60,
+          "logo_width": 100,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "show_line_separator": true,
