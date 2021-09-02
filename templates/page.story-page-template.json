@@ -15,24 +15,6 @@
       "settings": {
       }
     },
-    "163054114608be771e": {
-      "type": "rich-text",
-      "blocks": {
-        "163054114608be771e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Accumsan parturient cum cursus at vestibulum consectetur egestas <br\/>ultrices senectus cras commodo lobortis ad sagittis condimentum mi <br\/>natoque a a dis torquent tincidunt morbi ut. Consectetur venenatis <br\/>adipiscing aliquam nascetur aliquam adipiscing rhoncus diam viverra <br\/>varius urna vestibulum accumsan fermentum a senectus magna scelerisque <br\/>convallis semper pretium mi ullamcorper. Et cum scelerisque non <br\/>scelerisque magnis vel vulputate a montes augue orci nisi sapien <br\/>vestibulum dignissim. <br\/><br\/>Tellus adipiscing adipiscing orci quisque <br\/>purus justo eleifend et sit fusce interdum condimentum curae ut odio <br\/>velit a erat torquent lobortis nisl suspendisse non ornare sociosqu a <br\/>potenti adipiscing. A fringilla orci ac porta orci a a suspendisse <br\/>maecenas ullamcorper natoque netus elementum a in purus. Sit class hac <br\/>at a vestibulum aenean torquent praesent consectetur molestie neque orci<br\/> a ridiculus scelerisque laoreet nec.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "163054114608be771e-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
     "1630554015d7bea63b": {
       "type": "image-with-text",
       "blocks": {
@@ -45,21 +27,13 @@
         "1630554015d7bea63b-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1630554015d7bea63b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "text": "<p>Adipiscing id tellus condimentum tellus libero penatibus vestibulum urna ornare hac vestibulum mus sagittis dictum feugiat diam tempus litora a. Penatibus hac condimentum quisque erat egestas egestas dis vestibulum habitasse class parturient mi a scelerisque eros adipiscing a porta est nisi sociosqu at orci ut. Curae vestibulum sem vestibulum parturient eu ridiculus parturient scelerisque mi accumsan erat dis vestibulum congue condimentum a. Phasellus aptent habitant quam a arcu netus penatibus ad at quisque a mi iaculis quisque at porttitor ullamcorper sem ad nascetur. Scelerisque nascetur a vestibulum rutrum vulputate malesuada ad habitasse ligula purus viverra parturient vehicula arcu. Dolor hac vulputate pulvinar leo a condimentum nostra odio mus elit id nostra ultricies potenti.<\/p>"
           }
         }
       },
       "block_order": [
         "1630554015d7bea63b-0",
-        "1630554015d7bea63b-1",
-        "1630554015d7bea63b-2"
+        "1630554015d7bea63b-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/1806-AAA_5164.jpg",
@@ -72,7 +46,6 @@
   "order": [
     "163049188337701089",
     "main",
-    "163054114608be771e",
     "1630554015d7bea63b"
   ]
 }
