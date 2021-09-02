@@ -14,38 +14,10 @@
       "type": "main-page",
       "settings": {
       }
-    },
-    "1630554015d7bea63b": {
-      "type": "image-with-text",
-      "blocks": {
-        "1630554015d7bea63b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Story"
-          }
-        },
-        "1630554015d7bea63b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Adipiscing id tellus condimentum tellus libero penatibus vestibulum urna ornare hac vestibulum mus sagittis dictum feugiat diam tempus litora a. Penatibus hac condimentum quisque erat egestas egestas dis vestibulum habitasse class parturient mi a scelerisque eros adipiscing a porta est nisi sociosqu at orci ut. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1630554015d7bea63b-0",
-        "1630554015d7bea63b-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/1806-AAA_5164.jpg",
-        "height": "small",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
     }
   },
   "order": [
     "163049188337701089",
-    "main",
-    "1630554015d7bea63b"
+    "main"
   ]
 }
