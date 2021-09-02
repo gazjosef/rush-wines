@@ -89,11 +89,18 @@
         "show_image_outline": true,
         "show_vendor": true
       }
+    },
+    "16305569380c42feb8": {
+      "type": "page",
+      "settings": {
+        "page": "rushwines"
+      }
     }
   },
   "order": [
     "image_banner",
     "image_text",
-    "featured_products"
+    "featured_products",
+    "16305569380c42feb8"
   ]
 }
