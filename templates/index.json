@@ -51,8 +51,8 @@
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/pages\/story"
           }
         }
       },
