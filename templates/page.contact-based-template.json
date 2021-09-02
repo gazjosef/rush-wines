@@ -3,6 +3,7 @@
     "16305537548166a70a": {
       "type": "image-banner",
       "settings": {
+        "image": "shopify:\/\/shop_images\/Header-Contact.jpg",
         "desktop_text_box_position": "center",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
