@@ -3,7 +3,9 @@
   position: relative;
   flex-direction: column;
   min-height: initial;
+  height: 30rem;
 }
+/* ! ADDED MAX HEIGHT */
 
 @media screen and (max-width: 749px) {
   .banner:not(.banner--stacked) {
