@@ -2,6 +2,7 @@
   "sections": {
     "163049188337701089": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Header-Story.jpg",
         "desktop_text_box_position": "center",
@@ -32,11 +33,81 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "163055035531a7efb3": {
+      "type": "image-with-text",
+      "blocks": {
+        "163055035531a7efb3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "163055035531a7efb3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Accumsan parturient cum cursus at vestibulum consectetur egestas <br\/>ultrices senectus cras commodo lobortis ad sagittis condimentum mi <br\/>natoque a a dis torquent tincidunt morbi ut. Consectetur venenatis <br\/>adipiscing aliquam nascetur aliquam adipiscing rhoncus diam viverra <br\/>varius urna vestibulum accumsan fermentum a senectus magna scelerisque <br\/>convallis semper pretium mi ullamcorper. Et cum scelerisque non <br\/>scelerisque magnis vel vulputate a montes augue orci nisi sapien <br\/>vestibulum dignissim. <\/p>"
+          }
+        },
+        "163055035531a7efb3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163055035531a7efb3-0",
+        "163055035531a7efb3-1",
+        "163055035531a7efb3-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "16305510955f88fea2": {
+      "type": "image-with-text",
+      "blocks": {
+        "16305510955f88fea2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "16305510955f88fea2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16305510955f88fea2-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16305510955f88fea2-0",
+        "16305510955f88fea2-1",
+        "16305510955f88fea2-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
     "163049188337701089",
     "main",
-    "163054114608be771e"
+    "163054114608be771e",
+    "163055035531a7efb3",
+    "16305510955f88fea2"
   ]
 }
