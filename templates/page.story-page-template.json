@@ -72,7 +72,8 @@
         "16304919104bc084df-2"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/1806-AAA_5164.jpg",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
