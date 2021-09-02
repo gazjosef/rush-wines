@@ -3,22 +3,22 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Award Winning Wine Maker"
-          }
-        },
         "c0ac5c24-4421-4265-837e-548da4614d3d": {
           "type": "text",
           "settings": {
-            "text": "Delivering quality wine to your door"
+            "text": "AWARD WINNING WINE MAKER"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Delivering quality wine to your door"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Shop",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -28,8 +28,8 @@
         }
       },
       "block_order": [
-        "heading",
         "c0ac5c24-4421-4265-837e-548da4614d3d",
+        "heading",
         "button"
       ],
       "settings": {
