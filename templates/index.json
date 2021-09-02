@@ -6,7 +6,13 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand"
+            "heading": "Award Winning Wine Maker"
+          }
+        },
+        "c0ac5c24-4421-4265-837e-548da4614d3d": {
+          "type": "text",
+          "settings": {
+            "text": "Delivering quality wine to your door"
           }
         },
         "button": {
@@ -23,11 +29,12 @@
       },
       "block_order": [
         "heading",
+        "c0ac5c24-4421-4265-837e-548da4614d3d",
         "button"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/sven-wilhelm-2cRXSWyMHA8-unsplash.jpg",
-        "desktop_text_box_position": "flex-end",
+        "desktop_text_box_position": "center",
         "color_scheme": "accent-1",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false

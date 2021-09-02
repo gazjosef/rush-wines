@@ -2,7 +2,6 @@
   "sections": {
     "163049188337701089": {
       "type": "image-banner",
-      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Header-Story.jpg",
         "desktop_text_box_position": "center",
