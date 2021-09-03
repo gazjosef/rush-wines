@@ -14,10 +14,20 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "163065260664799487": {
+      "type": "video",
+      "settings": {
+        "heading": "Rush Wines Final",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=DId6L6fbJio",
+        "description": "Rush Wines Final",
+        "full_width": false
+      }
     }
   },
   "order": [
     "163049188337701089",
-    "main"
+    "main",
+    "163065260664799487"
   ]
 }
