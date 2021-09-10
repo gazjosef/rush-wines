@@ -14,10 +14,21 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "163065260664799487": {
+      "type": "video",
+      "settings": {
+        "heading": "Rush Wines Final",
+        "cover_image": "shopify:\/\/shop_images\/1806-AAA_5164.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=DId6L6fbJio",
+        "description": "Rush Wines Final",
+        "full_width": false
+      }
     }
   },
   "order": [
     "163049188337701089",
-    "main"
+    "main",
+    "163065260664799487"
   ]
 }
