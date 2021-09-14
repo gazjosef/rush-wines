@@ -1,13 +1,9 @@
 {
   "sections": {
-    "16305537548166a70a": {
-      "type": "image-banner",
+    "16316192535646641c": {
+      "type": "image-banner-small",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Header-Contact.jpg",
-        "desktop_text_box_position": "center",
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
+        "image": "shopify:\/\/shop_images\/Header-Contact.jpg"
       }
     },
     "main": {
@@ -23,7 +19,7 @@
     }
   },
   "order": [
-    "16305537548166a70a",
+    "16316192535646641c",
     "main",
     "16305537503bc13b34"
   ]
