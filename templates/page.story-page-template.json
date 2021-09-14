@@ -1,13 +1,9 @@
 {
   "sections": {
-    "163049188337701089": {
-      "type": "image-banner",
+    "1631619194ce69c18b": {
+      "type": "image-banner-small",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Header-Story.jpg",
-        "desktop_text_box_position": "center",
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
+        "image": "shopify:\/\/shop_images\/Header-Story.jpg"
       }
     },
     "main": {
@@ -18,7 +14,7 @@
     "163065260664799487": {
       "type": "video",
       "settings": {
-        "heading": "Rush Wines Final",
+        "heading": "",
         "cover_image": "shopify:\/\/shop_images\/1806-AAA_5164.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=DId6L6fbJio",
         "description": "Rush Wines Final",
@@ -27,7 +23,7 @@
     }
   },
   "order": [
-    "163049188337701089",
+    "1631619194ce69c18b",
     "main",
     "163065260664799487"
   ]
