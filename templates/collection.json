@@ -1,13 +1,9 @@
 {
   "sections": {
-    "163055348451ed0f05": {
-      "type": "image-banner",
+    "163161922293cba16b": {
+      "type": "image-banner-small",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Header-Shop.jpg",
-        "desktop_text_box_position": "center",
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "adapt_height_first_image": true
+        "image": "shopify:\/\/shop_images\/Header-Shop.jpg"
       }
     },
     "banner": {
@@ -33,7 +29,7 @@
     }
   },
   "order": [
-    "163055348451ed0f05",
+    "163161922293cba16b",
     "banner",
     "product-grid"
   ]

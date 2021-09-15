@@ -95,12 +95,33 @@
       "settings": {
         "page": "rushwines"
       }
+    },
+    "163167443163f22b81": {
+      "type": "apps",
+      "blocks": {
+        "0e4dfefa-2797-4049-8e61-284ab5e058e2": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "heading_font": "helvetica_n4",
+            "heading_size": 20,
+            "feed_width": 100,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "0e4dfefa-2797-4049-8e61-284ab5e058e2"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "image_banner",
     "image_text",
     "featured_products",
-    "16305569380c42feb8"
+    "16305569380c42feb8",
+    "163167443163f22b81"
   ]
 }
