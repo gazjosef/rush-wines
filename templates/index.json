@@ -90,12 +90,6 @@
         "show_vendor": true
       }
     },
-    "16305569380c42feb8": {
-      "type": "page",
-      "settings": {
-        "page": "rushwines"
-      }
-    },
     "163167443163f22b81": {
       "type": "apps",
       "blocks": {
@@ -121,7 +115,6 @@
     "image_banner",
     "image_text",
     "featured_products",
-    "16305569380c42feb8",
     "163167443163f22b81"
   ]
 }
