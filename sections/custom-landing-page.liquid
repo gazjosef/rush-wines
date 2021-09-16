@@ -1,0 +1,30 @@
+{{ 'custom-landing-page.css' | asset_url | stylesheet_tag }}
+
+<div class="custom-text-section">
+    <div class="landing-page">
+      <div class="landing-page__text-box">
+        <h2></h2>
+        <h1></h1>
+      </div>
+      
+    </div>
+  </div>
+  
+  {% schema %}
+    {
+      "name": "Landing Page",
+      "settings": [
+        {
+          "id": "image",
+          "type": "image_picker",
+          "label": "Image Banner"
+        }
+      ],
+      "presets": [
+        {
+          "name": "Custom Landing Page",
+          "category": "Image"
+        }
+      ]
+    }
+  {% endschema %}
