@@ -1,8 +1,9 @@
 {
   "sections": {
-    "16316192535646641c": {
-      "type": "image-banner-small",
+    "1631769442e0a71ed4": {
+      "type": "custom-header-banner",
       "settings": {
+        "image": "shopify:\/\/shop_images\/header-contact.jpg"
       }
     },
     "main": {
@@ -15,18 +16,11 @@
       "settings": {
         "heading": "Contact form"
       }
-    },
-    "1631762102f8f29560": {
-      "type": "custom-header-banner-image",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/header-contact.jpg"
-      }
     }
   },
   "order": [
-    "16316192535646641c",
+    "1631769442e0a71ed4",
     "main",
-    "16305537503bc13b34",
-    "1631762102f8f29560"
+    "16305537503bc13b34"
   ]
 }
