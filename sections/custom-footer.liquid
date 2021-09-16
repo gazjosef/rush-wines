@@ -1,7 +1,35 @@
 {{ 'custom-footer.css' | asset_url | stylesheet_tag }}
 
 <footer class="footer-menu">
-    Footer
+    <div class="footer-menu__logo">
+      <div class="footer-menu__logo--image">
+        IMG
+      </div>
+      <div class="footer-menu__logo--title">
+        Rush Wines
+      </div>
+    </div>
+
+    <div class="footer-menu__links">
+    
+      <div class="footer-menu__links--explore">
+        <h1>Explore</h1>
+        <ul>
+          <li>Home</li>
+          <li>Story</li>
+          <li>Shop</li>
+          <li>Contact</li>
+        </ul>
+      </div>
+      <div class="footer-menu__links--social">
+        <h1>Social</h1>
+        <ul>
+          <li>Facebook</li>
+          <li>Instagram</li>
+          <li>Twitter</li>
+        </ul>
+      </div>
+    </div>
   </footer>
   
   {% schema %}
