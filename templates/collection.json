@@ -6,11 +6,6 @@
         "image": "shopify:\/\/shop_images\/header-shop.jpg"
       }
     },
-    "163161922293cba16b": {
-      "type": "image-banner-small",
-      "settings": {
-      }
-    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -35,7 +30,6 @@
   },
   "order": [
     "1631762052bebb8ccf",
-    "163161922293cba16b",
     "banner",
     "product-grid"
   ]
