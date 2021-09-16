@@ -1,9 +1,14 @@
 {
   "sections": {
+    "1631762052bebb8ccf": {
+      "type": "custom-header-banner-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/header-shop.jpg"
+      }
+    },
     "163161922293cba16b": {
       "type": "image-banner-small",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Header-Shop.jpg"
       }
     },
     "banner": {
@@ -29,6 +34,7 @@
     }
   },
   "order": [
+    "1631762052bebb8ccf",
     "163161922293cba16b",
     "banner",
     "product-grid"
