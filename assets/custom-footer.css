@@ -1,6 +1,7 @@
 .footer-menu {
   background-color: #454545;
   color: white;
+  padding: 0 5rem;
 
   display: flex;
   align-items: center;
