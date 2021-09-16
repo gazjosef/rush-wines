@@ -1,7 +1,7 @@
 {
   "sections": {
-    "1631762052bebb8ccf": {
-      "type": "custom-header-banner-image",
+    "1631769421d2262e14": {
+      "type": "custom-header-banner",
       "settings": {
         "image": "shopify:\/\/shop_images\/header-shop.jpg"
       }
@@ -29,7 +29,7 @@
     }
   },
   "order": [
-    "1631762052bebb8ccf",
+    "1631769421d2262e14",
     "banner",
     "product-grid"
   ]
