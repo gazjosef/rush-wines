@@ -17,14 +17,14 @@
 .footer-menu__logo--image {
 }
 
-.footer-menu__link {
+.footer-menu__links {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
 
-.footer-menu__link--explore {
+.footer-menu__links--explore {
 }
 
-.footer-menu__link--social {
+.footer-menu__links--social {
 }
