@@ -3,7 +3,6 @@
     "16316192535646641c": {
       "type": "image-banner-small",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Header-Contact.jpg"
       }
     },
     "main": {
@@ -16,11 +15,18 @@
       "settings": {
         "heading": "Contact form"
       }
+    },
+    "1631762102f8f29560": {
+      "type": "custom-header-banner-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/header-contact.jpg"
+      }
     }
   },
   "order": [
     "16316192535646641c",
     "main",
-    "16305537503bc13b34"
+    "16305537503bc13b34",
+    "1631762102f8f29560"
   ]
 }
