@@ -53,6 +53,8 @@ span {
 }
 
 span::after {
+  position: absolute;
+  z-index: 10;
   content: "";
 
   top: 5rem;
@@ -60,7 +62,4 @@ span::after {
   width: 15rem;
   height: 3px;
   background-color: white;
-
-  position: absolute;
-  z-index: 10;
 }
