@@ -45,6 +45,4 @@
 .footer-menu__links--social {
   display: flex;
   flex-direction: column;
-
-  color: orangered;
 }
