@@ -43,13 +43,15 @@
 }
 
 .footer-menu__links span::after {
+  content: "";
+
   top: 2.5rem;
   left: 0;
-  content: "";
-  background-color: white;
-  position: absolute;
   width: 15rem;
   height: 3px;
+  background-color: white;
+
+  position: absolute;
   z-index: 10;
 }
 
