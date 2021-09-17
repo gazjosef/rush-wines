@@ -38,11 +38,21 @@
   margin-bottom: 3rem;
 }
 
-.footer-menu__links span {
+.footer-menu__links ul {
+  list-style: none;
+}
+
+.footer-menu__links--explore,
+.footer-menu__links--social {
+  display: flex;
+  flex-direction: column;
+}
+
+span {
   position: relative;
 }
 
-.footer-menu__links span::after {
+span::after {
   content: "";
 
   top: 2.5rem;
@@ -53,14 +63,4 @@
 
   position: absolute;
   z-index: 10;
-}
-
-.footer-menu__links ul {
-  list-style: none;
-}
-
-.footer-menu__links--explore,
-.footer-menu__links--social {
-  display: flex;
-  flex-direction: column;
 }
