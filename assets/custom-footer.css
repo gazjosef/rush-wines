@@ -38,6 +38,21 @@
   margin-bottom: 3rem;
 }
 
+.footer-menu__links span {
+  position: relative;
+}
+
+.footer-menu__links span::after {
+  top: 2.5rem;
+  left: 0;
+  content: "";
+  background-color: white;
+  position: absolute;
+  width: 15rem;
+  height: 3px;
+  z-index: 10;
+}
+
 .footer-menu__links ul {
   list-style: none;
 }
