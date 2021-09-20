@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACEA,AAAA,IAAI,CAAC;EACH,gBAAgB,EAHK,GAAG;CAIzB",
+    "sources": [
+        "custom-styles.scss",
+        "product-page.scss"
+    ],
+    "names": [],
+    "file": "custom-styles.css"
+}
