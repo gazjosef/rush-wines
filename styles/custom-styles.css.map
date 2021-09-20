@@ -1,9 +1,8 @@
 {
     "version": 3,
-    "mappings": "ACEA,AAAA,IAAI,CAAC;EACH,gBAAgB,EAHK,GAAG;CAIzB",
+    "mappings": "",
     "sources": [
-        "custom-styles.scss",
-        "product-page.scss"
+        "custom-styles.scss"
     ],
     "names": [],
     "file": "custom-styles.css"
