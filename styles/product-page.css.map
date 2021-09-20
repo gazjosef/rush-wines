@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAEA,AAAA,IAAI,CAAC;EACH,gBAAgB,EAHK,GAAG;CAIzB",
-    "sources": [
-        "product-page.scss"
-    ],
-    "names": [],
-    "file": "product-page.css"
-}
