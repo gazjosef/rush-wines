@@ -90,6 +90,11 @@ body {
   margin-top: 10rem !important;
 }
 
+.custom-footer {
+  background-color: #454545;
+  color: #fff;
+}
+
 .row {
   max-width: 114rem;
   margin: 0 auto;
