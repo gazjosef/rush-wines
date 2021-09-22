@@ -55,10 +55,12 @@ body {
 
 .heading-quote {
   font-size: 1.25rem;
+  color: white;
 }
 
 .heading-landing-page {
   font-size: 2rem;
+  color: white;
 }
 
 .u-center-text {
@@ -117,8 +119,8 @@ body {
 
 .custom-landing-page__text-box {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 60%;
+  left: 40%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
 }
