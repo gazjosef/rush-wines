@@ -154,8 +154,8 @@ body {
 
 @media (max-width: 56.25em) {
   .custom-landing-page__text-box {
-    width: 100%;
-    top: 50%;
+    width: 90%;
+    top: 70%;
     left: 50%;
   }
 }

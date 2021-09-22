@@ -18,8 +18,8 @@
     transform: translate(-50%, -50%);
 
     @include respond(tab-port) {
-      width: 100%;
-      top: 50%;
+      width: 90%;
+      top: 70%;
       left: 50%;
     }
   }
