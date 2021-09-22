@@ -53,8 +53,9 @@ body {
 }
 
 .heading-quote {
-  font-size: 2rem;
   color: grey;
+  font-size: 2rem;
+  text-transform: uppercase;
 }
 
 .heading-landing-page {
