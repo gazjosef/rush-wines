@@ -57,10 +57,20 @@ body {
   font-size: 2rem;
   text-transform: uppercase;
 }
+@media (max-width: 56.25em) {
+  .heading-quote {
+    font-size: 1rem;
+  }
+}
 
 .heading-landing-page {
   font-size: 4rem;
   color: white;
+}
+@media (max-width: 56.25em) {
+  .heading-landing-page {
+    font-size: 2rem;
+  }
 }
 
 .u-center-text {
