@@ -76,6 +76,10 @@ body {
   }
 }
 
+.heading-footer {
+  color: white;
+}
+
 .u-center-text {
   text-align: center !important;
 }
@@ -131,6 +135,7 @@ body {
 .custom-footer {
   background-color: #454545;
   color: #fff;
+  padding: 5rem 0;
 }
 
 .custom-landing-page {

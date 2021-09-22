@@ -73,6 +73,10 @@ body {
   }
 }
 
+.heading-footer {
+  color: white;
+}
+
 .u-center-text {
   text-align: center !important;
 }
