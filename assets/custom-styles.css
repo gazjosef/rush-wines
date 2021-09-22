@@ -129,7 +129,7 @@ body {
 .custom-landing-page__text-box {
   width: 40rem;
   position: absolute;
-  top: 65%;
+  top: 70%;
   left: 40%;
   transform: translate(-50%, -50%);
 }
