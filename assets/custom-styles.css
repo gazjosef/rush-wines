@@ -113,6 +113,7 @@ body {
   position: relative;
 }
 .custom-landing-page__text-box {
+  width: 40rem;
   position: absolute;
   top: 60%;
   left: 40%;
