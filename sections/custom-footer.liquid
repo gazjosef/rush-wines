@@ -5,19 +5,14 @@
     <div class="row">
       <div class="col-1-of-3">
         <div class="footer__logo">
-      <img
-        sizes="{% if section.settings.image_2 != blank and section.settings.stack_images_on_mobile %}(min-width: 750px) 50vw, 100vw{% elsif section.settings.image_2 != blank %}50vw{% else %}100vw{% endif %}"
-        src="{{ section.settings.image | img_url: '100x' }}"
-        loading="lazy"
-        alt="{{ section.settings.image.alt | escape }}"
-        width="100px"
-        height="100px"
-      >
+          <img
+            src="{{ section.settings.image | img_url: '100x' }}"
+            loading="lazy"
+            alt="{{ section.settings.image.alt | escape }}"
+            width="100px"
+            height="100px"
+          >
           <h3 class="heading-footer">Rush Wines</h3>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Quibusdam nobis sunt eius.
-          </p>
         </div>
       </div>
       <div class="col-1-of-3">
