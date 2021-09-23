@@ -132,6 +132,10 @@ body {
   color: #fff;
   padding: 5rem 0;
 }
+.custom-footer a {
+  color: #fff;
+}
+
 .custom-landing-page {
   width: 100%;
   height: 70rem;
