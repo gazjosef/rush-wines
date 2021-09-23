@@ -136,6 +136,9 @@ body {
 .custom-footer a {
   color: #fff;
 }
+.custom-footer > * {
+  margin-left: 2rem;
+}
 
 .custom-landing-page {
   width: 100%;
