@@ -150,6 +150,7 @@ body {
   position: relative;
 }
 .custom-landing-page__text-box {
+  background-color: rgba(0, 0, 0, 0.5);
   width: 40rem;
   position: absolute;
   top: 70%;
