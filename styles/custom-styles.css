@@ -158,7 +158,8 @@ body {
 }
 
 .custom-landing-page__text-box {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 2rem;
   width: 40rem;
   position: absolute;
   top: 70%;
