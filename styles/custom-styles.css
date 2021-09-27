@@ -192,6 +192,12 @@ body {
   padding: 10rem 0;
 }
 
+@media (max-width: 56.25em) {
+  .custom-padding {
+    padding: 5rem 0;
+  }
+}
+
 .row {
   max-width: 114rem;
   margin: 0 auto;
