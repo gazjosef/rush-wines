@@ -56,6 +56,7 @@ body {
 .heading-secondary {
   color: black;
   font-size: 3rem;
+  text-transform: uppercase;
 }
 
 .heading-quote {
