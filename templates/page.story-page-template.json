@@ -6,8 +6,37 @@
         "image": "shopify:\/\/shop_images\/header-story.jpg"
       }
     },
-    "main": {
-      "type": "main-page",
+    "1632661338d927eb29": {
+      "type": "custom-padding",
+      "settings": {
+      }
+    },
+    "1632730200d995eb7d": {
+      "type": "custom-section-title",
+      "settings": {
+        "title": "<p>Story<\/p>"
+      }
+    },
+    "1632730306f36fad87": {
+      "type": "rich-text",
+      "blocks": {
+        "1632730306f36fad87-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What prompted you\/ your motivations?<\/p><p><br\/><\/p><p><br\/>The chance to make something that was 100% my own, with every decision and<br\/>aspect of the winemaking coming purely from my actions. Having had the<br\/>opportunity to work with some great winemakers over the last seven years, both<br\/>here in Australia (Hunter Valley and Tasmania, both the Tamar and the Derwent)<br\/>and in the USA, I’ve learnt many different methods and seen the benefits of<br\/>certain techniques. While adopting some of these and incorporating my own<br\/>ideas, I was able to identify the types of wines that I was interested in making<br\/>and that I would be proud to put my name to as examples of balanced<br\/>winemaking. Wine for me is something tangible, something for people to enjoy.<br\/>I’m not artistic, but making wine seems to be a combination of science and art<br\/>which suits my background in forensic chemistry.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1632730306f36fad87-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1632661321ee1a57db": {
+      "type": "custom-padding",
       "settings": {
       }
     },
@@ -20,11 +49,27 @@
         "description": "Rush Wines Final",
         "full_width": false
       }
+    },
+    "163266131876917c37": {
+      "type": "custom-padding",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+      }
     }
   },
   "order": [
     "1631769387fabc10ce",
-    "main",
-    "163065260664799487"
+    "1632661338d927eb29",
+    "1632730200d995eb7d",
+    "1632730306f36fad87",
+    "1632661321ee1a57db",
+    "163065260664799487",
+    "163266131876917c37",
+    "main"
   ]
 }
