@@ -2,7 +2,8 @@
 <div class="custom-section-title">
     <div class="u-center-text u-margin-bottom-big">
         <h2 class="heading-secondary">
-            Exciting tours for adventurous people
+            {% comment %} Exciting tours for adventurous people {% endcomment %}
+            {{ section.settings.title }}
         </h2>
     </div>
   
@@ -13,7 +14,7 @@
         "name": "Section Title",
         "settings": [
           {
-            "id": "text",
+            "id": "title",
             "type": "richtext",
             "label": "Padding Image Banner"
           }
