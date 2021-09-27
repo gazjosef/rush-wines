@@ -59,6 +59,12 @@ body {
   text-transform: uppercase;
 }
 
+@media (max-width: 56.25em) {
+  .heading-secondary {
+    font-size: 2rem;
+  }
+}
+
 .heading-quote {
   color: grey;
   font-size: 2rem;

@@ -10,6 +10,10 @@ body {
   color: black;
   font-size: 3rem;
   text-transform: uppercase;
+
+  @include respond(tab-port) {
+    font-size: 2rem;
+  }
 }
 
 // Landing Page
