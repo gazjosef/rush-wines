@@ -6,11 +6,15 @@
         "image": "shopify:\/\/shop_images\/header-shop.jpg"
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
+    "1632661379b6e3ccc8": {
+      "type": "custom-padding",
       "settings": {
-        "show_collection_description": false,
-        "show_collection_image": false
+      }
+    },
+    "16327301655280185d": {
+      "type": "custom-section-title",
+      "settings": {
+        "title": "<p>Shop<\/p>"
       }
     },
     "product-grid": {
@@ -26,11 +30,27 @@
         "enable_sorting": true,
         "collapse_on_larger_devices": false
       }
+    },
+    "163266138464883f83": {
+      "type": "custom-padding",
+      "settings": {
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false
+      }
     }
   },
   "order": [
     "1631769421d2262e14",
-    "banner",
-    "product-grid"
+    "1632661379b6e3ccc8",
+    "16327301655280185d",
+    "product-grid",
+    "163266138464883f83",
+    "banner"
   ]
 }

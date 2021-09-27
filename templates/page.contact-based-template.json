@@ -6,21 +6,66 @@
         "image": "shopify:\/\/shop_images\/header-contact.jpg"
       }
     },
-    "main": {
-      "type": "main-page",
+    "1632661512f5c34b2f": {
+      "type": "custom-padding",
+      "settings": {
+      }
+    },
+    "1632729967ab92299f": {
+      "type": "custom-section-title",
+      "settings": {
+        "title": "<p>Contact Us<\/p>"
+      }
+    },
+    "1632718061cd59a2bd": {
+      "type": "rich-text",
+      "blocks": {
+        "1632718061cd59a2bd-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For more information on our wine, process, or events please don’t hesitate to get in touch.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1632718061cd59a2bd-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1632729840b60cba2c": {
+      "type": "custom-padding",
       "settings": {
       }
     },
     "16305537503bc13b34": {
       "type": "contact-form",
       "settings": {
-        "heading": "Contact form"
+        "heading": "Contact Form"
+      }
+    },
+    "1632661515b32413fb": {
+      "type": "custom-padding",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
       }
     }
   },
   "order": [
     "1631769442e0a71ed4",
-    "main",
-    "16305537503bc13b34"
+    "1632661512f5c34b2f",
+    "1632729967ab92299f",
+    "1632718061cd59a2bd",
+    "1632729840b60cba2c",
+    "16305537503bc13b34",
+    "1632661515b32413fb",
+    "main"
   ]
 }
