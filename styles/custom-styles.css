@@ -134,18 +134,6 @@ body {
   margin-top: 10rem !important;
 }
 
-.btn {
-  background-color: blue;
-  color: white;
-  padding: 1rem 2.5rem;
-  border-radius: 50px;
-  border: none;
-  font-size: 2rem;
-  text-align: center;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-
 .custom-footer {
   background-color: #1a1b18;
   color: white;
