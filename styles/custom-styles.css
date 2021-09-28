@@ -55,14 +55,14 @@ body {
 
 .heading-secondary {
   color: #445958;
-  font-size: 3rem;
-  letter-spacing: 0.2rem;
+  font-size: 2.75rem;
+  letter-spacing: 0.5rem;
   text-transform: uppercase;
 }
 
 @media (max-width: 56.25em) {
   .heading-secondary {
-    font-size: 2.25rem;
+    font-size: 2rem;
   }
 }
 
