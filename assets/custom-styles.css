@@ -55,6 +55,7 @@ body {
 .heading-secondary {
   color: #445958;
   font-size: 3rem;
+  letter-spacing: 0.2rem;
   text-transform: uppercase;
 }
 @media (max-width: 56.25em) {
