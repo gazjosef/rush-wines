@@ -66,7 +66,7 @@ body {
 }
 
 .heading-quote {
-  color: grey;
+  color: #666666;
   font-size: 2rem;
   text-transform: uppercase;
 }
@@ -147,12 +147,12 @@ body {
 
 .custom-footer {
   background-color: #1a1b18;
-  color: #fff;
+  color: white;
   padding: 5rem 0;
 }
 
 .custom-footer a {
-  color: #fff;
+  color: white;
 }
 
 .custom-footer > * {

@@ -18,7 +18,7 @@ body {
 
 // Landing Page
 .heading-quote {
-  color: grey;
+  color: $color-grey-600;
   font-size: 2rem;
   text-transform: uppercase;
 
@@ -29,7 +29,7 @@ body {
 
 .heading-landing-page {
   font-size: 4rem;
-  color: white;
+  color: $color-white;
 
   @include respond(tab-port) {
     font-size: 2rem;
@@ -39,5 +39,5 @@ body {
 // Footer
 .heading-footer {
   font-size: 2.5rem;
-  color: white;
+  color: $color-white;
 }
