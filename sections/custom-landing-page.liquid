@@ -1,4 +1,13 @@
 <div class="custom-landing-page">
+  <img
+    class="custom-landing-page"
+    sizes="{% if section.settings.image_2 != blank and section.settings.stack_images_on_mobile %}(min-width: 750px) 50vw, 100vw{% elsif section.settings.image_2 != blank %}50vw{% else %}100vw{% endif %}"
+    src="{{ section.settings.landing_page_image | img_url: '1600x' }}"
+    loading="lazy"
+    alt="{{ section.settings.landing_page_image.alt | escape }}"
+    width="{{ section.settings.landing_page_image.width }}"
+    height="{{ section.settings.landing_page_image.width | divided_by: section.settings.landing_page_image.aspect_ratio }}"
+  >
   <div class="custom-landing-page__text-box">
     <h2 class="heading-quote">Award Winning Wine Maker</h2>
     <h1 class="heading-landing-page u-margin-bottom-small">Deliverying quality wine to your door</h1>
