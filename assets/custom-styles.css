@@ -149,9 +149,6 @@ body {
 .custom-landing-page {
   width: 100%;
   height: 70rem;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
   position: relative;
 }
 .custom-landing-page img {
