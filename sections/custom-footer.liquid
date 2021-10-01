@@ -4,7 +4,13 @@
     <div class="row">
       <div class="col-1-of-3">
         <div class="footer__logo">
-
+          <img
+            src="{{ section.settings.image | img_url: '100x' }}"
+            loading="lazy"
+            alt="{{ section.settings.image.alt | escape }}"
+            width="150px"
+            height="150px"
+          >
         </div>
       </div>
       <div class="col-1-of-3">
@@ -58,7 +64,9 @@
       "name": "Footer",
       "settings": [
         {
-
+          "id": "image",
+          "type": "image_picker",
+          "label": "Image Banner"
         }
       ],
       "presets": [
