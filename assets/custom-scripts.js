@@ -1,3 +1,4 @@
+{% javascript %} 
 let slideIndex = 0;
 
 function showSlides() {
@@ -26,3 +27,4 @@ function showSlides() {
 }
 
 showSlides();
+{% endjavascript %}
