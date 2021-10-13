@@ -2,36 +2,30 @@
     <!--  SLIDESHOW -->
     <div class="slideshow">
       <div class="slideshow__slides fade">
-        {% comment %} <div class="slideshow__number">1 / 3</div> {% endcomment %}
         <img
             src="{{ section.settings.image | img_url: '1200x' }}"
             loading="lazy"
             alt="{{ section.settings.image.alt | escape }}"
             width="1200px"
           >
-        {% comment %} <div class="slideshow__text">Caption Text</div> {% endcomment %}
       </div>
 
       <div class="slideshow__slides fade">
-        {% comment %} <div class="slideshow__number">2 / 3</div> {% endcomment %}
         <img
             src="{{ section.settings.image2 | img_url: '1200x' }}"
             loading="lazy"
             alt="{{ section.settings.image2.alt | escape }}"
             width="1200px"
           >
-        {% comment %} <div class="slideshow__text">Caption Two</div> {% endcomment %}
       </div>
 
       <div class="slideshow__slides fade">
-        {% comment %} <div class="slideshow__number">3 / 3</div> {% endcomment %}
         <img
             src="{{ section.settings.image3 | img_url: '1200x' }}"
             loading="lazy"
             alt="{{ section.settings.image3.alt | escape }}"
             width="1200px"
           >
-        {% comment %} <div class="slideshow__text">Caption Three</div> {% endcomment %}
       </div>
 
       <!-- LINE BREAK -->
