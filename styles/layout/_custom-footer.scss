@@ -1,13 +1,5 @@
 .custom-footer {
-  background-color: #1a1b18;
-  color: $color-white;
-  padding: 5rem 0;
+  margin-top: 0;
 
-  a {
-    color: $color-white;
-  }
-
-  & > * {
-    margin-left: 2rem;
-  }
+  text-align: center;
 }
