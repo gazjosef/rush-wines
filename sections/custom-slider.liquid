@@ -1,0 +1,132 @@
+
+<footer class="custom-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-1-of-3">
+          <div class="footer__logo">
+            <img
+              src="{{ section.settings.image | img_url: '100x' }}"
+              loading="lazy"
+              alt="{{ section.settings.image.alt | escape }}"
+              width="150px"
+              height="150px"
+            >
+          </div>
+        </div>
+        <div class="col-1-of-3">
+          <div class="footer__nav-links">
+            <h1 class="heading-footer u-margin-bottom-small">
+              <span>Explore</span>
+            </h1>
+            <ul>
+              <li>
+                <a href="#">Home</a>
+              </li>
+              <li>
+                <a href="#">Story</a>
+              </li>
+              <li>
+                <a href="#">Shop</a>
+              </li>
+              <li>
+                <a href="#">Contact</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-1-of-3">
+          <div class="footer__social-media-links">
+            <h1 class="heading-footer u-margin-bottom-small">
+              <span>Follow Us</span>
+            </h1>
+            <ul>
+              <li>Facebook</li>
+              <li>Instagram</li>
+              <li>LinkedIn</li>
+              <li>Twitter</li>
+            </ul>
+          </div>
+        </div>
+  
+      </div>
+  
+  
+      <div class="row">
+        <div class="footer__copyright u-center-text">
+          Ant Software Dev &copy; 2021
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <section class="section-slide-show">
+    <!--  SLIDESHOW -->
+    <div class="slideshow">
+      <div class="slideshow__slides fade">
+        <div class="slideshow__number">1 / 3</div>
+        <img src="img/img_nature_wide.jpg" />
+        <img
+            src="{{ section.settings.image | img_url: '100x' }}"
+            loading="lazy"
+            alt="{{ section.settings.image.alt | escape }}"
+            width="150px"
+            height="150px"
+          >
+        <div class="slideshow__text">Caption Text</div>
+      </div>
+
+      <div class="slideshow__slides fade">
+        <div class="slideshow__number">2 / 3</div>
+        <img src="img/img_snow_wide.jpg" />
+        <img
+            src="{{ section.settings.image | img_url: '100x' }}"
+            loading="lazy"
+            alt="{{ section.settings.image.alt | escape }}"
+            width="150px"
+            height="150px"
+          >
+        <div class="slideshow__text">Caption Two</div>
+      </div>
+
+      <div class="slideshow__slides fade">
+        <div class="slideshow__number">3 / 3</div>
+        <img src="img/img_mountains_wide.jpg" />
+        <img
+            src="{{ section.settings.image | img_url: '100x' }}"
+            loading="lazy"
+            alt="{{ section.settings.image.alt | escape }}"
+            width="150px"
+            height="150px"
+          >
+        <div class="slideshow__text">Caption Three</div>
+      </div>
+
+      <!-- LINE BREAK -->
+      <br />
+    </div>
+    <!-- THREE DOTS -->
+    <div class="dots">
+      <span class="dots__dot"></span>
+      <span class="dots__dot"></span>
+      <span class="dots__dot"></span>
+    </div>
+  </section>
+    
+    {% schema %}
+      {
+        "name": "Slider",
+        "settings": [
+          {
+            "id": "image",
+            "type": "image_picker",
+            "label": "Image Banner"
+          }
+        ],
+        "presets": [
+          {
+            "name": "_Custom Footer",
+            "category": "footer"
+          }
+        ]
+      }
+    {% endschema %}
