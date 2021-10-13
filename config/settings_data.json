@@ -1,12 +1,13 @@
 {
   "current": {
+    "colors_accent_1": "#1A1B18",
     "type_header_font": "poppins_n7",
     "type_body_font": "poppins_n4",
     "page_width": "1200",
-    "social_twitter_link": "https:\/\/twitter.com\/shopify",
-    "social_facebook_link": "https:\/\/facebook.com\/shopify",
-    "social_instagram_link": "http:\/\/instagram.com\/shopify",
-    "favicon": "shopify:\/\/shop_images\/Rush_Wine_Label_Main_V2.png",
+    "social_twitter_link": "",
+    "social_facebook_link": "https:\/\/www.facebook.com\/rushwinesaus",
+    "social_instagram_link": "http:\/\/instagram.com\/rush.wines",
+    "favicon": "shopify:\/\/shop_images\/RUSH_STAMP10241024_1.jpg",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -14,7 +15,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "heading": "Welcome to our store",
+              "heading": "Wines made by a Rush, not in a rush",
               "color_scheme": "accent-1",
               "link": ""
             }
@@ -29,7 +30,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/Rush_Wine_Label_Main_V2.png",
+          "logo": "shopify:\/\/shop_images\/RUSH_STAMP10241024_1.jpg",
           "logo_width": 60,
           "logo_position": "middle-left",
           "menu": "main-menu",
