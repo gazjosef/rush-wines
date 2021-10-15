@@ -1,9 +1,11 @@
 {
   "sections": {
-    "1631769387fabc10ce": {
-      "type": "custom-header-banner",
+    "16341149642e207eaf": {
+      "type": "custom-slider",
       "settings": {
-        "image": "shopify:\/\/shop_images\/header-story.jpg"
+        "image": "shopify:\/\/shop_images\/header-contact.jpg",
+        "image2": "shopify:\/\/shop_images\/header-shop.jpg",
+        "image3": "shopify:\/\/shop_images\/header-story.jpg"
       }
     },
     "1632661338d927eb29": {
@@ -63,7 +65,7 @@
     }
   },
   "order": [
-    "1631769387fabc10ce",
+    "16341149642e207eaf",
     "1632661338d927eb29",
     "1632730200d995eb7d",
     "1632730306f36fad87",
