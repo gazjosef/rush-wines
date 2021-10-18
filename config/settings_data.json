@@ -8,6 +8,9 @@
     "social_facebook_link": "https:\/\/www.facebook.com\/rushwinesaus",
     "social_instagram_link": "http:\/\/instagram.com\/rush.wines",
     "favicon": "shopify:\/\/shop_images\/RUSH_STAMP10241024_1.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/RUSH_STAMP10241024_1.jpg",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
