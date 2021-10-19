@@ -202,11 +202,11 @@ body {
 }
 
 .custom-padding {
-  padding: 10rem 0;
+  padding: 5rem 0;
 }
 @media (max-width: 56.25em) {
   .custom-padding {
-    padding: 5rem 0;
+    padding: 2.5rem 0;
   }
 }
 
