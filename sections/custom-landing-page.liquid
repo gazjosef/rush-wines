@@ -1,29 +1,36 @@
-<div
-  style="background-image: url(https://images.unsplash.com/photo-1504279577054-acfeccf8fc52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80);"
-  class="custom-landing-page"
->
-  <div class="custom-landing-page__text-box">
-    <h2 class="heading-quote">Award Winning Wine Maker</h2>
-    <h1 class="heading-landing-page u-margin-bottom-small">Deliverying quality wine to your door</h1>
-    <button class="button">Shop</button>
-  </div>
-</div>
-  
-{% schema %}
-  {
-    "name": "Landing Page",
-    "settings": [
-      {
-        "id": "landing_page_image",
-        "type": "image_picker",
-        "label": "Landing Page Image"
-      }
-    ],
-    "presets": [
-      {
-        "name": "_Custom Landing Page",
-        "category": "Image"
-      }
-    ]
-  }
-{% endschema %}
+<section class="landing-page">
+    <div class="landing-page__image">
+      <img
+        src="{{ section.settings.landing_page_image | img_url: '1400x' }}"
+        loading="lazy"
+        alt="{{ section.settings.landing_page_image.alt | escape }}"
+        width="1400px"
+      >    
+    </div>
+    {% comment %} <div class="landing-page__text-box">
+      <h1>TEXT BOX</h1>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos,
+        eligendi.
+      </p>
+    </div> {% endcomment %}
+  </section>
+    
+  {% schema %}
+    {
+      "name": "Landing Page",
+      "settings": [
+        {
+          "id": "landing_page_image",
+          "type": "image_picker",
+          "label": "Landing Page Image"
+        }
+      ],
+      "presets": [
+        {
+          "name": "_Custom Landing Page",
+          "category": "Image"
+        }
+      ]
+    }
+  {% endschema %}
