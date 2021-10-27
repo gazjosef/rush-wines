@@ -192,23 +192,6 @@ body {
      object-fit: cover;
 }
 
-.landing-page__heading {
-  color: white;
-  font-size: 3.5rem;
-  font-weight: 700;
-  letter-spacing: 1rem;
-  text-transform: uppercase;
-}
-
-@media (max-width: 56.25em) {
-  .landing-page__heading {
-    display: none;
-    margin-bottom: 1.5rem;
-    font-size: 1.5rem;
-    letter-spacing: 1rem;
-  }
-}
-
 .landing-page__text-box {
   padding: 3rem;
   background-color: rgba(0, 0, 0, 0.6);
@@ -230,6 +213,34 @@ body {
 .landing-page__text-box a:active {
   text-decoration: none;
   color: black;
+}
+
+.landing-page__text-box__heading {
+  margin-bottom: 3rem;
+  color: white;
+  font-size: 3.5rem;
+  font-weight: 700;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+}
+
+@media (max-width: 56.25em) {
+  .landing-page__text-box__heading {
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+    letter-spacing: 1rem;
+  }
+}
+
+.landing-page__text-box__text {
+  margin-bottom: 3rem;
+}
+
+@media (max-width: 56.25em) {
+  .landing-page__text-box__text {
+    margin-bottom: 1.5rem;
+    font-size: 1.25rem;
+  }
 }
 
 .landing-page__text-box .button--home {
