@@ -57,8 +57,10 @@
     }
 
     @include respond(tab-port) {
+      background-color: rgba($color-black, 0);
       padding: 1rem;
-      bottom: -20%;
+
+      bottom: 0%;
     }
   }
 }
