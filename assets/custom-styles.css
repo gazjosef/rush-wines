@@ -175,6 +175,13 @@ body {
   letter-spacing: 1rem;
   text-transform: uppercase;
 }
+@media (max-width: 56.25em) {
+  .landing-page__heading {
+    margin-bottom: 1.5rem;
+    font-size: 3rem;
+    letter-spacing: 1rem;
+  }
+}
 .landing-page__text-box {
   padding: 4rem;
   background-color: rgba(0, 0, 0, 0.5);
@@ -197,7 +204,8 @@ body {
 }
 @media (max-width: 56.25em) {
   .landing-page__text-box {
-    bottom: -25%;
+    padding: 1rem;
+    bottom: -50%;
   }
 }
 
