@@ -15,8 +15,8 @@
   }
 
   &__text-box {
-    padding: 3.5rem;
-    background-color: rgba($color-black, 0.6);
+    padding: 4rem;
+    background-color: rgba($color-black, 0.55);
     border-radius: 0.5rem;
 
     position: absolute;
@@ -73,7 +73,9 @@
     @include respond(tab-port) {
       margin-bottom: 1.5rem;
 
-      font-size: 1.25rem;
+      font-size: 1.5rem;
+
+      display: none;
     }
   }
 }

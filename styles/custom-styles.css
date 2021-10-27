@@ -193,8 +193,8 @@ body {
 }
 
 .landing-page__text-box {
-  padding: 3.5rem;
-  background-color: rgba(0, 0, 0, 0.6);
+  padding: 4rem;
+  background-color: rgba(0, 0, 0, 0.55);
   border-radius: 0.5rem;
   position: absolute;
   top: 25%;
@@ -252,7 +252,8 @@ body {
 @media (max-width: 56.25em) {
   .landing-page__text {
     margin-bottom: 1.5rem;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
+    display: none;
   }
 }
 
