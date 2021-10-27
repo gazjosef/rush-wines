@@ -181,6 +181,11 @@ body {
   font-size: 6rem;
   text-align: center;
 }
+@media (max-width: 56.25em) {
+  .landing-page__text-box {
+    height: 12rem;
+  }
+}
 
 .custom-padding {
   padding: 5rem 0;

@@ -29,5 +29,9 @@
 
     font-size: 6rem;
     text-align: center;
+
+    @include respond(tab-port) {
+      height: 12rem;
+    }
   }
 }
