@@ -42,10 +42,10 @@
     }
 
     @include respond(tab-port) {
-      background-color: rgba($color-black, 0);
+      background-color: rgba($color-black, 0.4);
       padding: 1rem;
 
-      top: 25%;
+      top: 60%;
     }
   }
 
