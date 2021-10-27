@@ -218,7 +218,11 @@ body {
 .landing-page__text-box a:hover,
 .landing-page__text-box a:active {
   text-decoration: none;
-  color: white;
+  color: black;
+}
+
+.landing-page__text-box .button--home {
+  background-color: white;
 }
 
 @media (max-width: 56.25em) {

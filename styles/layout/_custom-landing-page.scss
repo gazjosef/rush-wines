@@ -41,7 +41,11 @@
     a:hover,
     a:active {
       text-decoration: none;
-      color: $color-white;
+      color: $color-black;
+    }
+
+    .button--home {
+      background-color: $color-white;
     }
 
     @include respond(tab-port) {
