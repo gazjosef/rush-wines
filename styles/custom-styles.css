@@ -200,6 +200,7 @@ body {
 }
 
 .landing-page__text-box {
+  width: 100%;
   position: absolute;
   bottom: 10%;
   left: 50%;
