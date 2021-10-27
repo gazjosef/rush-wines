@@ -42,7 +42,8 @@
     }
 
     @include respond(tab-port) {
-      background-color: rgba($color-black, 0.4);
+      background-color: rgba($color-black, 0.55);
+      border-radius: 0.25rem;
       padding: 1.5rem;
 
       top: 60%;
@@ -60,7 +61,7 @@
     text-transform: uppercase;
 
     @include respond(tab-port) {
-      margin-bottom: 1.5rem;
+      margin-bottom: 1.75rem;
 
       font-size: 1.5rem;
       letter-spacing: 1rem;

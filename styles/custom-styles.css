@@ -221,7 +221,8 @@ body {
 
 @media (max-width: 56.25em) {
   .landing-page__text-box {
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.55);
+    border-radius: 0.25rem;
     padding: 1.5rem;
     top: 60%;
     left: 40%;
@@ -239,7 +240,7 @@ body {
 
 @media (max-width: 56.25em) {
   .landing-page__heading {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.75rem;
     font-size: 1.5rem;
     letter-spacing: 1rem;
   }
