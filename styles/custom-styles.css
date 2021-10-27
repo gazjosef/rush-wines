@@ -201,8 +201,7 @@ body {
 }
 
 .landing-page__text-box {
-  width: 100%;
-  padding: 1rem;
+  padding: 2rem;
   background-color: rgba(0, 0, 0, 0.5);
   position: absolute;
   bottom: 10%;
@@ -213,7 +212,11 @@ body {
   text-align: center;
 }
 
-.landing-page__text-box a {
+.landing-page__text-box a,
+.landing-page__text-box a:link,
+.landing-page__text-box a:visited,
+.landing-page__text-box a:hover,
+.landing-page__text-box a:active {
   text-decoration: none;
 }
 
