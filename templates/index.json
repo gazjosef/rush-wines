@@ -1,9 +1,9 @@
 {
   "sections": {
-    "163411329405962523": {
-      "type": "custom-landing-page2",
+    "163462887420f9b88c": {
+      "type": "custom-landing-page",
       "settings": {
-        "landing_page_image2": "shopify:\/\/shop_images\/1806-AAA_5184.jpg"
+        "landing_page_image": "shopify:\/\/shop_images\/1806-AAA_5184.jpg"
       }
     },
     "1632661536b15606e7": {
@@ -116,7 +116,7 @@
     }
   },
   "order": [
-    "163411329405962523",
+    "163462887420f9b88c",
     "1632661536b15606e7",
     "1632730399391a6930",
     "image_text",
