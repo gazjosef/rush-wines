@@ -37,10 +37,11 @@
     background-color: rgba($color-black, 0.5);
 
     position: absolute;
-    bottom: 10%;
-    left: 50%;
+    top: 25%;
+    left: 35%;
     transform: translate(-50%, -50%);
 
+    color: $color-white;
     text-align: center;
 
     a,
