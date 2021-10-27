@@ -167,6 +167,12 @@ body {
   width: 100%;
   object-fit: cover;
 }
+.landing-page__heading {
+  font-weight: bold;
+  letter-spacing: 1.5rem;
+  text-transform: uppercase;
+  color: white;
+}
 .landing-page__text-box {
   position: absolute;
   bottom: 10%;
@@ -174,7 +180,6 @@ body {
   transform: translate(-50%, -50%);
   font-size: 6rem;
   text-align: center;
-  color: white;
 }
 
 .custom-padding {
