@@ -177,6 +177,7 @@ body {
 }
 @media (max-width: 56.25em) {
   .landing-page__heading {
+    display: none;
     margin-bottom: 1.5rem;
     font-size: 1.5rem;
     letter-spacing: 1rem;
