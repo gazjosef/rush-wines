@@ -24,6 +24,8 @@
 
   &__text-box {
     width: 100%;
+    padding: 1rem;
+    background-color: rgba($color-black, 0.5);
 
     position: absolute;
     bottom: 10%;
@@ -32,6 +34,10 @@
 
     font-size: 6rem;
     text-align: center;
+
+    a {
+      text-decoration: none;
+    }
 
     @include respond(tab-port) {
       bottom: -25%;

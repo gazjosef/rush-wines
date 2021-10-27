@@ -176,12 +176,17 @@ body {
 }
 .landing-page__text-box {
   width: 100%;
+  padding: 1rem;
+  background-color: rgba(0, 0, 0, 0.5);
   position: absolute;
   bottom: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 6rem;
   text-align: center;
+}
+.landing-page__text-box a {
+  text-decoration: none;
 }
 @media (max-width: 56.25em) {
   .landing-page__text-box {
