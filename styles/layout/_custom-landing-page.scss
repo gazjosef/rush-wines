@@ -31,7 +31,7 @@
     text-align: center;
 
     @include respond(tab-port) {
-      height: 12rem;
+      bottom: 0%;
     }
   }
 }
