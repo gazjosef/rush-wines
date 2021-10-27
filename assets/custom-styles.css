@@ -169,7 +169,7 @@ body {
 }
 .landing-page__heading {
   font-weight: bold;
-  letter-spacing: 1.5rem;
+  letter-spacing: 1rem;
   text-transform: uppercase;
   color: white;
   font-size: 6rem;
@@ -181,7 +181,6 @@ body {
   bottom: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 6rem;
   text-align: center;
 }
 .landing-page__text-box a,
@@ -190,6 +189,7 @@ body {
 .landing-page__text-box a:hover,
 .landing-page__text-box a:active {
   text-decoration: none;
+  color: white;
 }
 @media (max-width: 56.25em) {
   .landing-page__text-box {
