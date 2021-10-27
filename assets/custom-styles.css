@@ -59,7 +59,7 @@ body {
 }
 @media (max-width: 56.25em) {
   .heading-secondary {
-    font-size: 2rem;
+    font-size: 1.75rem;
   }
 }
 
@@ -183,7 +183,7 @@ body {
 }
 @media (max-width: 56.25em) {
   .landing-page__text-box {
-    bottom: -20%;
+    bottom: -25%;
   }
 }
 
