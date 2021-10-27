@@ -16,8 +16,12 @@
 
   &__text-box {
     position: absolute;
-    top: 50%;
+    bottom: -40%;
     left: 50%;
     transform: translate(-50%, -50%);
+
+    font-size: 6rem;
+    text-align: center;
+    color: $color-white;
   }
 }
