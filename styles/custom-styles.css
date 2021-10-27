@@ -204,7 +204,7 @@ body {
 @media (max-width: 56.25em) {
   .landing-page__heading {
     margin-bottom: 1.5rem;
-    font-size: 3rem;
+    font-size: 1.5rem;
     letter-spacing: 1rem;
   }
 }
@@ -236,7 +236,7 @@ body {
 @media (max-width: 56.25em) {
   .landing-page__text-box {
     padding: 1rem;
-    bottom: -50%;
+    bottom: -20%;
   }
 }
 
