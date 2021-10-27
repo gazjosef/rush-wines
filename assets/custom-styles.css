@@ -187,30 +187,6 @@ body {
   text-decoration: none;
   color: black;
 }
-.landing-page__text-box__heading {
-  margin-bottom: 3rem;
-  color: white;
-  font-size: 3.5rem;
-  font-weight: 700;
-  letter-spacing: 1rem;
-  text-transform: uppercase;
-}
-@media (max-width: 56.25em) {
-  .landing-page__text-box__heading {
-    margin-bottom: 1.5rem;
-    font-size: 1.5rem;
-    letter-spacing: 1rem;
-  }
-}
-.landing-page__text-box__text {
-  margin-bottom: 3rem;
-}
-@media (max-width: 56.25em) {
-  .landing-page__text-box__text {
-    margin-bottom: 1.5rem;
-    font-size: 1.25rem;
-  }
-}
 .landing-page__text-box .button--home {
   background-color: white;
 }
@@ -219,6 +195,30 @@ body {
     background-color: rgba(0, 0, 0, 0);
     padding: 1rem;
     top: 0%;
+  }
+}
+.landing-page__heading {
+  margin-bottom: 3rem;
+  color: white;
+  font-size: 3.5rem;
+  font-weight: 700;
+  letter-spacing: 1rem;
+  text-transform: uppercase;
+}
+@media (max-width: 56.25em) {
+  .landing-page__heading {
+    margin-bottom: 1.5rem;
+    font-size: 1.5rem;
+    letter-spacing: 1rem;
+  }
+}
+.landing-page__text {
+  margin-bottom: 3rem;
+}
+@media (max-width: 56.25em) {
+  .landing-page__text {
+    margin-bottom: 1.5rem;
+    font-size: 1.25rem;
   }
 }
 

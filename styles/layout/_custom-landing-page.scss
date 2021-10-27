@@ -37,33 +37,6 @@
       color: $color-black;
     }
 
-    &__heading {
-      margin-bottom: 3rem;
-
-      color: $color-white;
-      font-size: 3.5rem;
-      font-weight: 700;
-      letter-spacing: 1rem;
-      text-transform: uppercase;
-
-      @include respond(tab-port) {
-        margin-bottom: 1.5rem;
-
-        font-size: 1.5rem;
-        letter-spacing: 1rem;
-      }
-    }
-
-    &__text {
-      margin-bottom: 3rem;
-
-      @include respond(tab-port) {
-        margin-bottom: 1.5rem;
-
-        font-size: 1.25rem;
-      }
-    }
-
     .button--home {
       background-color: $color-white;
     }
@@ -73,6 +46,33 @@
       padding: 1rem;
 
       top: 0%;
+    }
+  }
+
+  &__heading {
+    margin-bottom: 3rem;
+
+    color: $color-white;
+    font-size: 3.5rem;
+    font-weight: 700;
+    letter-spacing: 1rem;
+    text-transform: uppercase;
+
+    @include respond(tab-port) {
+      margin-bottom: 1.5rem;
+
+      font-size: 1.5rem;
+      letter-spacing: 1rem;
+    }
+  }
+
+  &__text {
+    margin-bottom: 3rem;
+
+    @include respond(tab-port) {
+      margin-bottom: 1.5rem;
+
+      font-size: 1.25rem;
     }
   }
 }
