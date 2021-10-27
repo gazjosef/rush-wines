@@ -15,15 +15,17 @@
   }
 
   &__heading {
+    margin-bottom: 3rem;
+
+    color: $color-white;
+    font-size: 6rem;
     font-weight: bold;
     letter-spacing: 1rem;
     text-transform: uppercase;
-    color: $color-white;
-    font-size: 6rem;
   }
 
   &__text-box {
-    padding: 2rem;
+    padding: 3rem;
     background-color: rgba($color-black, 0.5);
 
     position: absolute;
