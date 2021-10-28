@@ -192,6 +192,12 @@ body {
      object-fit: cover;
 }
 
+@media (max-width: 56.25em) {
+  .landing-page__image img {
+    height: 55rem;
+  }
+}
+
 .landing-page__text-box {
   padding: 4rem;
   background-color: rgba(0, 0, 0, 0.55);

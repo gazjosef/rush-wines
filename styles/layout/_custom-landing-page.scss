@@ -10,7 +10,12 @@
 
     img {
       width: 100%;
+
       object-fit: cover;
+
+      @include respond(tab-port) {
+        height: 55rem;
+      }
     }
   }
 
