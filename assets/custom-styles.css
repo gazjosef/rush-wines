@@ -199,7 +199,7 @@ body {
   .landing-page__text-box {
     background-color: rgba(0, 0, 0, 0.55);
     border-radius: 0.25rem;
-    padding: 1.5rem;
+    padding: 2.5rem;
     top: 60%;
     left: 40%;
   }
@@ -209,14 +209,13 @@ body {
   color: white;
   font-size: 3.5rem;
   font-weight: 700;
-  letter-spacing: 1rem;
+  letter-spacing: 1.25rem;
   text-transform: uppercase;
 }
 @media (max-width: 56.25em) {
   .landing-page__heading {
     margin-bottom: 1.75rem;
-    font-size: 1.5rem;
-    letter-spacing: 1rem;
+    font-size: 2.5rem;
   }
 }
 .landing-page__text {
