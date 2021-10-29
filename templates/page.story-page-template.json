@@ -25,30 +25,12 @@
         "1632730306f36fad87-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Born and raised in Sydney, NSW, Sam got his start in wine making in the Hunter Valley. <\/p><p><\/p><p>With a background in forensic chemistry, he was drawn to the<br\/>industry after several years working in hospitality peaked his interest in wines.  <\/p><p><br\/>Through his label, Sam wanted to incorporate his own ideas<br\/>and creativity into the types of wines he was interested in making. The end results are wines he is proud to put his family name to as examples of balanced, minimal intervention wine making. <\/p><p><\/p><p><\/p><p><em>“Wine for me is something is tangible, something for people to enjoy. I’m not artistic, but making wine seems to be a combination of science and art which suits my background in forensic chemistry.”<\/em><\/p><p><\/p><p><\/p><p>We hope you enjoy these wines made by a Rush, not in a rush. <\/p>"
+            "text": "<p><\/p><p>Born and raised in Sydney, NSW, Sam got his start in wine making in the Hunter Valley. <\/p><p><br\/>With a background in forensic chemistry, he was drawn to the<br\/>industry after several years working in hospitality peaked his interest in wines.  <\/p><p><br\/>Through his label, Sam wanted to incorporate his own ideas<br\/>and creativity into the types of wines he was interested in making. The end results are wines he is proud to put his family name to as examples of balanced, minimal intervention wine making. <\/p><p>  <\/p><p><br\/><em>“Wine for me is something is tangible, something for people to enjoy. I’m not artistic, but making wine seems to be a combination of science and art which suits my background in forensic chemistry.”<\/em><\/p><p><\/p><p><br\/>We hope you enjoy these wines made by a Rush, not in a rush. <\/p>"
           }
         }
       },
       "block_order": [
         "1632730306f36fad87-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
-    "1635486898d3ab1246": {
-      "type": "rich-text",
-      "blocks": {
-        "1635486898d3ab1246-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><em>“Wine for me is something is tangible, something for people to enjoy. I’m not artistic, but making wine seems to be a combination of science and art which suits my background in forensic chemistry.”<\/em><\/p><p><\/p><p>We hope you enjoy these wines made by a Rush, not in a rush. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1635486898d3ab1246-1"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -87,7 +69,6 @@
     "1632661338d927eb29",
     "1632730200d995eb7d",
     "1632730306f36fad87",
-    "1635486898d3ab1246",
     "1632661321ee1a57db",
     "163065260664799487",
     "163266131876917c37",
