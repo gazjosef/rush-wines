@@ -37,6 +37,24 @@
         "full_width": true
       }
     },
+    "1635486898d3ab1246": {
+      "type": "rich-text",
+      "blocks": {
+        "1635486898d3ab1246-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>“Wine for me is something is tangible, something for people to enjoy. I’m not artistic, but making wine seems to be a combination of science and art which suits my background in forensic chemistry.”<\/em><\/p><p><\/p><p>We hope you enjoy these wines made by a Rush, not in a rush. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1635486898d3ab1246-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "1632661321ee1a57db": {
       "type": "custom-padding",
       "settings": {
@@ -69,6 +87,7 @@
     "1632661338d927eb29",
     "1632730200d995eb7d",
     "1632730306f36fad87",
+    "1635486898d3ab1246",
     "1632661321ee1a57db",
     "163065260664799487",
     "163266131876917c37",
