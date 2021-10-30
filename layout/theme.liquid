@@ -113,7 +113,8 @@
     {%- endunless -%}
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
-  </head>
+    {% include 'scm-product-label-head' %}
+</head>
 
   <body>
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
@@ -153,5 +154,6 @@
 
     </script>
 
-  </body>
+  {% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% endif %}<script async src="https://zooomyapps.com/age/ZooomyAgeVerify.js" data-shop="rush-wines.myshopify.com"></script>
+</body>
 </html>
