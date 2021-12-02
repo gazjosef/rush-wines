@@ -114,6 +114,7 @@
 
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
     {% include 'scm-product-label-head' %}
+  <script src="https://shopoe.net/app.js"></script>
 </head>
 
   <body>
@@ -156,5 +157,8 @@
 
   {% if content_for_header contains 'product_label' %}{% include 'bss-product-label-js' %}{% endif %}<script async src="" data-shop="rush-wines.myshopify.com"></script>
 <script async src="https://zooomyapps.com/age/ZooomyAgeVerify.js" data-shop="rush-wines.myshopify.com"></script>
+
+<!-- BeeAppContactForm -->
+<div id="bap-cot-fm-wp" style="float: left; clear: both; width: 100%"></div>{{shop.metafields.cnt_frm_nm_spac.cnt_frm_nm_content}}
 </body>
 </html>
