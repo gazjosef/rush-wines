@@ -1,5 +1,36 @@
 {
   "sections": {
+    "1635921932eed1cf36": {
+      "type": "newsletter",
+      "blocks": {
+        "1635921932eed1cf36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "1635921932eed1cf36-1": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "1635921932eed1cf36-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1635921932eed1cf36-0",
+        "1635921932eed1cf36-1",
+        "1635921932eed1cf36-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "163462887420f9b88c": {
       "type": "custom-landing-page",
       "settings": {
@@ -83,37 +114,6 @@
       "settings": {
       }
     },
-    "1635921932eed1cf36": {
-      "type": "newsletter",
-      "blocks": {
-        "1635921932eed1cf36-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe to our emails"
-          }
-        },
-        "1635921932eed1cf36-1": {
-          "type": "paragraph",
-          "settings": {
-            "paragraph": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "1635921932eed1cf36-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "1635921932eed1cf36-0",
-        "1635921932eed1cf36-1",
-        "1635921932eed1cf36-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
     "1635921946ac55979c": {
       "type": "custom-padding",
       "settings": {
@@ -152,6 +152,7 @@
     }
   },
   "order": [
+    "1635921932eed1cf36",
     "163462887420f9b88c",
     "1632661536b15606e7",
     "1632730399391a6930",
@@ -160,7 +161,6 @@
     "16327303675d10d1d3",
     "featured_products",
     "163266159766140dc5",
-    "1635921932eed1cf36",
     "1635921946ac55979c",
     "1632730362d4201335",
     "163167443163f22b81",
