@@ -2,10 +2,10 @@
   "sections": {
     "1635921932eed1cf36": {
       "type": "newsletter",
+      "disabled": true,
       "blocks": {
         "1635921932eed1cf36-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "Subscribe to our emails"
           }
