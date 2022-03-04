@@ -5,6 +5,7 @@
       "blocks": {
         "1635921932eed1cf36-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Subscribe to our emails"
           }
