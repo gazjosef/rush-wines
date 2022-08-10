@@ -50,10 +50,18 @@
               "heading": "Rush Wines",
               "menu": "footer"
             }
+          },
+          "f73d6bb6-5c88-40ce-9e3b-4cd33e051132": {
+            "type": "text",
+            "settings": {
+              "heading": "",
+              "subtext": "<p>Rush Wines acknowledges the Aboriginal People of lutruwita\/Tasmania as the original and ongoing custodians of the land on which we meet & pays its respects to elders past, present, & emerging.<\/p>"
+            }
           }
         },
         "block_order": [
-          "footer-0"
+          "footer-0",
+          "f73d6bb6-5c88-40ce-9e3b-4cd33e051132"
         ],
         "settings": {
           "color_scheme": "inverse",
@@ -68,14 +76,6 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "6997246072599924253": {
-        "type": "shopify:\/\/apps\/modern-age-verifier\/blocks\/popup-embed-block\/80506ffa-3512-446f-8c57-62d506a4e265",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   }
 }
