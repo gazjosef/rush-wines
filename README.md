@@ -1,16 +1,3 @@
-# Rush Wines
-
-## Description
-A professional e-commerce website to sell and showcase wine stock for Rush Wines.
-
-## How to use
-
-1. Open Website
-2. Select Shop
-
-## Built-With
-- ![Shopify](https://img.shields.io/static/v1?style=for-the-badge&message=Shopify&color=222222&logo=Shopify&logoColor=7AB55C&label=)
-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ## GitHub Page
 https://rushwines.com.au/
@@ -36,7 +23,7 @@ Gareth Hind
 <br />
 <div align="center">
   <a href="https://github.com/gazjosef/odds-tracker">
-    <img src="https://cdn.shopify.com/s/files/1/0566/8736/2257/files/RUSH_STAMP10241024_1_60x@2x.jpg?v=1633675063" alt="Logo" width="250" height="250">
+    <img src="https://cdn.shopify.com/s/files/1/0566/8736/2257/files/RUSH_STAMP10241024_1_60x@2x.jpg?v=1633675063" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Rush Wines</h3>
@@ -80,9 +67,8 @@ A professional e-commerce website to sell and showcase wine stock for Rush Wines
 
 ### Built With
 
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+* ![Shopify](https://img.shields.io/static/v1?style=for-the-badge&message=Shopify&color=222222&logo=Shopify&logoColor=7AB55C&label=)
+* ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -103,7 +89,7 @@ A professional e-commerce website to sell and showcase wine stock for Rush Wines
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gazjosef/odds-tracker.git
+   git clone https://github.com/gazjosef/rush-wines.git
    ```
 2. Install NPM packages
    ```sh
@@ -116,9 +102,6 @@ A professional e-commerce website to sell and showcase wine stock for Rush Wines
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-1. Use searchbar to select sport, then select league
-2. Click the find button.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,9 +123,9 @@ A professional e-commerce website to sell and showcase wine stock for Rush Wines
 ## Contact
 
 
-Live: [https://odds-tracker.vercel.app/](https://odds-tracker.vercel.app/)
+Live: https://rushwines.com.au/
 
-Project Link: [https://github.com/gazjosef/odds-tracker](https://github.com/gazjosef/odds-tracker)
+Project Link: [https://github.com/gazjosef/rush-wines](https://github.com/gazjosef/rush-wines)
 
 Gareth Hind - garethjhind@gmail.com
 
