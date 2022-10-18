@@ -55,6 +55,14 @@ A professional e-commerce website to sell and showcase wine stock for Rush Wines
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Designed responsive mock ups and design using Figma.
+
+Designed layout using SASS and liqud.
+
+Added e-commerce store features with Shopify.
+
+Improved user accessability by adhering to Web Content Accessibility Guidelines (WCAG) 2
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
