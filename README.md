@@ -99,12 +99,12 @@ Improved user accessability by adhering to Web Content Accessibility Guidelines 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
+<!--
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+ -->
 
 
 <!-- ROADMAP -->
