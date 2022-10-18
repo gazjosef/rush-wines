@@ -55,7 +55,7 @@ A professional e-commerce website to sell and showcase wine stock for Rush Wines
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Designed responsive mock ups and design using Figma.
+Designed responsive mock ups and designs using Figma.
 
 Designed layout using SASS and liqud.
 
