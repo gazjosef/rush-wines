@@ -1,5 +1,10 @@
 {
   "sections": {
+    "040e5c36-7a6e-48bf-a827-ab1092956e33": {
+      "type": "custom-padding",
+      "settings": {
+      }
+    },
     "16327303675d10d1d3": {
       "type": "custom-section-title",
       "settings": {
@@ -151,6 +156,7 @@
     }
   },
   "order": [
+    "040e5c36-7a6e-48bf-a827-ab1092956e33",
     "16327303675d10d1d3",
     "featured_products",
     "1635921946ac55979c",
