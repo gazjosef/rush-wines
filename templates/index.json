@@ -1,34 +1,24 @@
 {
   "sections": {
-    "1635921932eed1cf36": {
-      "type": "newsletter",
-      "blocks": {
-        "1635921932eed1cf36-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe to our emails"
-          }
-        },
-        "1635921932eed1cf36-1": {
-          "type": "paragraph",
-          "settings": {
-            "paragraph": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "1635921932eed1cf36-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "1635921932eed1cf36-0",
-        "1635921932eed1cf36-1",
-        "1635921932eed1cf36-2"
-      ],
+    "16327303675d10d1d3": {
+      "type": "custom-section-title",
       "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
+        "title": "<p>Shop<\/p>"
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "wine",
+        "products_to_show": 6,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": true,
+        "show_image_outline": true,
+        "show_vendor": true
       }
     },
     "163462887420f9b88c": {
@@ -88,25 +78,35 @@
       "settings": {
       }
     },
-    "16327303675d10d1d3": {
-      "type": "custom-section-title",
+    "1635921932eed1cf36": {
+      "type": "newsletter",
+      "blocks": {
+        "1635921932eed1cf36-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails"
+          }
+        },
+        "1635921932eed1cf36-1": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "1635921932eed1cf36-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1635921932eed1cf36-0",
+        "1635921932eed1cf36-1",
+        "1635921932eed1cf36-2"
+      ],
       "settings": {
-        "title": "<p>Shop<\/p>"
-      }
-    },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "",
-        "collection": "wine",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": true,
-        "show_image_outline": true,
-        "show_vendor": true
+        "color_scheme": "background-1",
+        "full_width": true
       }
     },
     "163266159766140dc5": {
@@ -129,9 +129,8 @@
       "type": "apps",
       "blocks": {
         "0e4dfefa-2797-4049-8e61-284ab5e058e2": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_font": "helvetica_n4",
             "heading_size": 20,
             "feed_width": 100,
             "html_area": ""
@@ -152,14 +151,14 @@
     }
   },
   "order": [
-    "1635921932eed1cf36",
+    "16327303675d10d1d3",
+    "featured_products",
     "163462887420f9b88c",
     "1632661536b15606e7",
     "1632730399391a6930",
     "image_text",
     "1632661552ac2aee2b",
-    "16327303675d10d1d3",
-    "featured_products",
+    "1635921932eed1cf36",
     "163266159766140dc5",
     "1635921946ac55979c",
     "1632730362d4201335",
