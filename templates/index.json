@@ -153,6 +153,32 @@
       "type": "custom-padding",
       "settings": {
       }
+    },
+    "b1c985da-3433-4bbe-87db-613897aeb1dc": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14879175639249__b1c985da-3433-4bbe-87db-613897aeb1dc-1682835003345dbbef-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Important information for customers",
+            "heading_size": "h1"
+          }
+        },
+        "template--14879175639249__b1c985da-3433-4bbe-87db-613897aeb1dc-1682835003345dbbef-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please be aware we don’t have a cellar door or tasting room for customers. The wine is only available online for purchase and at a number of venues around Launceston including Crown Cellars. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14879175639249__b1c985da-3433-4bbe-87db-613897aeb1dc-1682835003345dbbef-0",
+        "template--14879175639249__b1c985da-3433-4bbe-87db-613897aeb1dc-1682835003345dbbef-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -169,6 +195,7 @@
     "163266159766140dc5",
     "1632730362d4201335",
     "163167443163f22b81",
-    "163266160869fe1d3c"
+    "163266160869fe1d3c",
+    "b1c985da-3433-4bbe-87db-613897aeb1dc"
   ]
 }
