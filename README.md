@@ -36,7 +36,7 @@
 <h3 align="center">Rush Wines</h3>
 
   <p align="center">
-    Ant Software delivers transformative digital solutions, empowering businesses to thrive in a dynamic market landscape.
+    Rush Wines is a boutique wine business offering a curated selection of high-quality wines.
     <br />
     <br />
     <a href="https://github.com/gazjosef/rush-wines">View Demo</a>
