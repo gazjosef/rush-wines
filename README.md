@@ -83,6 +83,7 @@
 
 ### Built With
 
+- [![Shopify][Shopify.com]][Shopify-url]
 - [![SASS][SASS.com]][SASS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -194,3 +195,5 @@ Email: garethjhind@gmail.com
 [Redux-url]: https://redux.js.org/
 [Sass.com]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
 [Sass-url]: https://sass-lang.com/
+[Shopify.com]: https://img.shields.io/static/v1?style=for-the-badge&message=Shopify&color=222222&logo=Shopify&logoColor=7AB55C&label=
+[Shopify-url]: https://www.shopify.com/au
