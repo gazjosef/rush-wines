@@ -83,9 +83,6 @@
 
 ### Built With
 
-- [![TypeScript][TypeScript.com]][TypeScript-url]
-- [![React][React.js]][React-url]
-- [![Next][Next.js]][Next-url]
 - [![SASS][SASS.com]][SASS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
