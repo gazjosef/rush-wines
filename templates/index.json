@@ -1,14 +1,58 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
+    "rich_text_hPzcpf": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_k7kqHp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tasmanian Wine made on a micro scale",
+            "heading_size": "h1"
+          }
+        },
+        "text_PLwhmk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Come and enjoy wine made from fruit sourced from amazing vineyards in the Tamar Valley with an eye for detail and unpretentious ideology </p>"
+          }
+        },
+        "button_JfpnfE": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP",
+            "button_link": "shopify://collections/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_k7kqHp",
+        "text_PLwhmk",
+        "button_JfpnfE"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "040e5c36-7a6e-48bf-a827-ab1092956e33": {
       "type": "custom-padding",
-      "settings": {
-      }
+      "settings": {}
     },
     "16327303675d10d1d3": {
       "type": "custom-section-title",
       "settings": {
-        "title": "<p>Shop<\/p>"
+        "title": "<p>Shop</p>"
       }
     },
     "featured_products": {
@@ -28,24 +72,22 @@
     },
     "1635921946ac55979c": {
       "type": "custom-padding",
-      "settings": {
-      }
+      "settings": {}
     },
     "163462887420f9b88c": {
       "type": "custom-landing-page",
       "settings": {
-        "landing_page_image": "shopify:\/\/shop_images\/landing-page.jpg"
+        "landing_page_image": "shopify://shop_images/landing-page.jpg"
       }
     },
     "1632661536b15606e7": {
       "type": "custom-padding",
-      "settings": {
-      }
+      "settings": {}
     },
     "1632730399391a6930": {
       "type": "custom-section-title",
       "settings": {
-        "title": "<p>About Us<\/p>"
+        "title": "<p>About Us</p>"
       }
     },
     "image_text": {
@@ -60,14 +102,14 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Rush Wines is the namesake of Sam Rush – a winemaker who after nearly a decade in the industry has launched his own label. <\/p><p>With a Pinot Gris and Pinot Noir on offer, Rush Wines is a labour of love with grapes sourced from the beautiful Tamar Valley region in lutruwita\/Tasmania.<\/p><p>Our wines are made with minimal intervention, allowing for the quality of the Tasmanian fruit to shine through. <\/p><p>Rush Wines represents the chance for Sam to create something that is 100% his, with every decision and aspect of the winemaking coming purely from his actions.<\/p><p>We hope you enjoy these wines made by a Rush, not in a rush.<\/p>"
+            "text": "<p>Rush Wines is the namesake of Sam Rush – a winemaker who after nearly a decade in the industry has launched his own label. </p><p>With a Pinot Gris and Pinot Noir on offer, Rush Wines is a labour of love with grapes sourced from the beautiful Tamar Valley region in lutruwita/Tasmania.</p><p>Our wines are made with minimal intervention, allowing for the quality of the Tasmanian fruit to shine through. </p><p>Rush Wines represents the chance for Sam to create something that is 100% his, with every decision and aspect of the winemaking coming purely from his actions.</p><p>We hope you enjoy these wines made by a Rush, not in a rush.</p>"
           }
         },
         "button": {
           "type": "button",
           "settings": {
             "button_label": "Read More",
-            "button_link": "shopify:\/\/pages\/story"
+            "button_link": "shopify://pages/story"
           }
         }
       },
@@ -77,7 +119,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1806-AAA_5173.jpg",
+        "image": "shopify://shop_images/1806-AAA_5173.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -85,8 +127,7 @@
     },
     "1632661552ac2aee2b": {
       "type": "custom-padding",
-      "settings": {
-      }
+      "settings": {}
     },
     "1635921932eed1cf36": {
       "type": "newsletter",
@@ -100,13 +141,12 @@
         "1635921932eed1cf36-1": {
           "type": "paragraph",
           "settings": {
-            "paragraph": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "paragraph": "<p>Be the first to know about new collections and exclusive offers.</p>"
           }
         },
         "1635921932eed1cf36-2": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -121,23 +161,32 @@
     },
     "163266159766140dc5": {
       "type": "custom-padding",
-      "settings": {
-      }
+      "settings": {}
     },
     "1632730362d4201335": {
       "type": "custom-section-title",
       "settings": {
-        "title": "<p>Follow us @rush.wines<\/p>"
+        "title": "<p>Follow us @rush.wines</p>"
       }
     },
     "163167443163f22b81": {
       "type": "apps",
       "blocks": {
         "0e4dfefa-2797-4049-8e61-284ab5e058e2": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
+            "title": "",
+            "title_color": "",
+            "title_size_v2": 0,
+            "alignment": "center",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
+            "background_color": "",
+            "feed_id": "",
             "html_area": ""
           }
         }
@@ -151,8 +200,7 @@
     },
     "163266160869fe1d3c": {
       "type": "custom-padding",
-      "settings": {
-      }
+      "settings": {}
     },
     "b1c985da-3433-4bbe-87db-613897aeb1dc": {
       "type": "rich-text",
@@ -167,7 +215,7 @@
         "template--14879175639249__b1c985da-3433-4bbe-87db-613897aeb1dc-1682835003345dbbef-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Please be aware we don’t have a cellar door or tasting room for customers. The wine is only available online for purchase and at a number of venues around Launceston including Crown Cellars. <\/p>"
+            "text": "<p>Please be aware we don’t have a cellar door or tasting room for customers. The wine is only available online for purchase and at a number of venues around Launceston including Crown Cellars. </p>"
           }
         }
       },
@@ -182,6 +230,7 @@
     }
   },
   "order": [
+    "rich_text_hPzcpf",
     "040e5c36-7a6e-48bf-a827-ab1092956e33",
     "16327303675d10d1d3",
     "featured_products",
