@@ -49,6 +49,10 @@
       "type": "custom-padding",
       "settings": {}
     },
+    "custom_padding_gFJhNY": {
+      "type": "custom-padding",
+      "settings": {}
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -56,36 +60,6 @@
     },
     "image_banner_fnXGfm": {
       "type": "image-banner",
-      "blocks": {
-        "heading_LWLg8M": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner"
-          }
-        },
-        "text_3aq9c6": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "buttons_YXDWAX": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_LWLg8M",
-        "text_3aq9c6",
-        "buttons_YXDWAX"
-      ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/011_8520.jpg",
@@ -102,7 +76,8 @@
     "1632730200d995eb7d",
     "1632730306f36fad87",
     "1632661321ee1a57db",
-    "main",
-    "image_banner_fnXGfm"
+    "image_banner_fnXGfm",
+    "custom_padding_gFJhNY",
+    "main"
   ]
 }
