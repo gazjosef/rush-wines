@@ -13,7 +13,7 @@
       "type": "custom-slider",
       "settings": {
         "image": "shopify://shop_images/11B_4666.jpg",
-        "image2": "shopify://shop_images/011_8520.jpg",
+        "image2": "shopify://shop_images/11B_4485.jpg",
         "image3": "shopify://shop_images/11B_4565.jpg"
       }
     },
@@ -51,7 +51,9 @@
     },
     "163266131876917c37": {
       "type": "custom-padding",
-      "settings": {}
+      "settings": {
+        "image": "shopify://shop_images/011_8520.jpg"
+      }
     },
     "main": {
       "type": "main-page",
