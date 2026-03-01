@@ -1,22 +1,30 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16341149642e207eaf": {
       "type": "custom-slider",
       "settings": {
-        "image": "shopify:\/\/shop_images\/rushwines3.jpg",
-        "image2": "shopify:\/\/shop_images\/banner4.jpg",
-        "image3": "shopify:\/\/shop_images\/rushwines2.jpg"
+        "image": "shopify://shop_images/11B_4666.jpg",
+        "image2": "shopify://shop_images/011_8520.jpg",
+        "image3": "shopify://shop_images/11B_4565.jpg"
       }
     },
     "1632661338d927eb29": {
       "type": "custom-padding",
-      "settings": {
-      }
+      "settings": {}
     },
     "1632730200d995eb7d": {
       "type": "custom-section-title",
       "settings": {
-        "title": "<p>Story<\/p>"
+        "title": "<p>Story</p>"
       }
     },
     "1632730306f36fad87": {
@@ -25,7 +33,7 @@
         "1632730306f36fad87-1": {
           "type": "text",
           "settings": {
-            "text": "<p><\/p><p>Born and raised in Sydney, NSW, Sam got his start in winemaking in the Hunter Valley. <\/p><p><br\/>With a background in forensic chemistry, he was drawn to the<br\/>industry after several years working in hospitality peaked his interest in wines.  <\/p><p><br\/>Through his label, Sam wanted to incorporate his own ideas<br\/>and creativity into the types of wines he was interested in making. The end results are wines he is proud to put his family name to as examples of balanced, minimal intervention winemaking. <\/p><p>  <\/p><p><br\/><em>“Wine for me is something is tangible, something for people to enjoy. I’m not artistic, but making wine seems to be a combination of science and art which suits my background in forensic chemistry.”<\/em><\/p><p><\/p><p><br\/>We hope you enjoy these wines made by a Rush, not in a rush. <\/p>"
+            "text": "<p></p><p>Born and raised in Sydney, NSW, Sam got his start in winemaking in the Hunter Valley. </p><p><br/>With a background in forensic chemistry, he was drawn to the<br/>industry after several years working in hospitality peaked his interest in wines.  </p><p><br/>Through his label, Sam wanted to incorporate his own ideas<br/>and creativity into the types of wines he was interested in making. The end results are wines he is proud to put his family name to as examples of balanced, minimal intervention winemaking. </p><p>  </p><p><br/><em>“Wine for me is something is tangible, something for people to enjoy. I’m not artistic, but making wine seems to be a combination of science and art which suits my background in forensic chemistry.”</em></p><p></p><p><br/>We hope you enjoy these wines made by a Rush, not in a rush. </p>"
           }
         }
       },
@@ -39,29 +47,16 @@
     },
     "1632661321ee1a57db": {
       "type": "custom-padding",
-      "settings": {
-      }
-    },
-    "163065260664799487": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "cover_image": "shopify:\/\/shop_images\/1806-AAA_5164.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=DId6L6fbJio",
-        "description": "Rush Wines Final",
-        "full_width": false
-      }
+      "settings": {}
     },
     "163266131876917c37": {
       "type": "custom-padding",
-      "settings": {
-      }
+      "settings": {}
     },
     "main": {
       "type": "main-page",
       "disabled": true,
-      "settings": {
-      }
+      "settings": {}
     }
   },
   "order": [
@@ -70,7 +65,6 @@
     "1632730200d995eb7d",
     "1632730306f36fad87",
     "1632661321ee1a57db",
-    "163065260664799487",
     "163266131876917c37",
     "main"
   ]
