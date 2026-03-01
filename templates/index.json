@@ -77,7 +77,7 @@
     "163462887420f9b88c": {
       "type": "custom-landing-page",
       "settings": {
-        "landing_page_image": "shopify://shop_images/landing-page.jpg"
+        "landing_page_image": "shopify://shop_images/11B_4762.jpg"
       }
     },
     "1632661536b15606e7": {
@@ -119,8 +119,8 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/1806-AAA_5173.jpg",
-        "height": "adapt",
+        "image": "shopify://shop_images/011_9037.jpg",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
@@ -215,7 +215,7 @@
         "template--14879175639249__b1c985da-3433-4bbe-87db-613897aeb1dc-1682835003345dbbef-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Please be aware we don’t have a cellar door or tasting room for customers. The wine is only available online for purchase and at a number of venues around Launceston including Crown Cellars. </p>"
+            "text": "<p>Please be aware we don’t have a cellar door or tasting room for customers. The wine is only available online for purchase and at a number of venues around Launceston including Crown Cellars, Pinot Shop, Barrel Collective and St Johns Craft Beer.</p>"
           }
         }
       },
